@@ -1,5 +1,13 @@
 # solarized-one README
 
+## About
+
+Combination of Solarized Dark and Atom One Dark themes for Visual Studio Code.
+
+https://github.com/ryanolsonx/vscode-solarized-theme/blob/master/themes/solarized-dark-color-theme.json
+
+https://github.com/akamud/vscode-theme-onedark/blob/master/themes/OneDark.json
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
