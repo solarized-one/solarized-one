@@ -3,7 +3,7 @@
   "displayName": "Solarized One",
   "description": "Solarized One",
   "version": "0.0.1",
-  "publisher": "Solarized One",
+  "publisher": "SolarizedOne",
   "repository": "https://github.com/solarized-one/vscode",
   "license": "MIT",
   "icon": "icon.png",
@@ -14,7 +14,9 @@
     "solarized one",
     "theme",
     "color-theme",
-    "vscode"
+    "vscode",
+    "atom",
+    "github"
   ],
   "engines": {
     "vscode": "^1.93.0"
