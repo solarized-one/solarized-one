@@ -3,6 +3,19 @@
   "displayName": "Solarized One",
   "description": "Solarized One",
   "version": "0.0.1",
+  "publisher": "Solarized One",
+  "repository": "https://github.com/solarized-one/vscode",
+  "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "solarized",
+    "dark",
+    "one",
+    "solarized one",
+    "theme",
+    "color-theme",
+    "vscode"
+  ],
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -17,6 +30,5 @@
         "path": "./themes/Solarized One-color-theme.json"
       }
     ]
-  },
-  "repository": "https://github.com/solarized-one/vscode"
+  }
 }
