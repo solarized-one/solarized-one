@@ -1,4 +1,4 @@
-# solarized-one README
+# Solarized One
 
 Combination of Solarized Dark and Atom One Dark themes for Visual Studio Code.
 
