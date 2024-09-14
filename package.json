@@ -1,0 +1,21 @@
+{
+  "name": "solarized-one",
+  "displayName": "Solarized One",
+  "description": "Solarized One",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solarized One-color-theme.json"
+      }
+    ]
+  }
+}
