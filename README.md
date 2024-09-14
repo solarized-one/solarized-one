@@ -2,7 +2,7 @@
 
 Combination of Solarized Dark and Atom One Dark themes for Visual Studio Code.
 
-![](https://github.com/user-attachments/assets/cef81cae-3b0a-4ab3-b7c7-979e182e2bbc)
+![Screenshot 2024-09-14 at 4 19 51 PM](https://github.com/user-attachments/assets/c0bae4ad-d7ae-4b69-85fa-bad43a285cc1)
 
 ## Story 
 
